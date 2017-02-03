@@ -1,0 +1,19 @@
+https://www.acmicpc.net/board/view/5094
+
+LIS 참고
+
+
+
+
+1965
+
+LCS 사용 가능함
+
+풀고나서
+
+참조
+
+http://bogus919.tistory.com/entry/LCSlongest-common-subsequence
+
+
+http://bogus919.tistory.com/entry/dp%EB%A5%BC-recursive%EB%A1%9C-iterative%EB%A1%9C

@@ -1,0 +1,5 @@
+
+
+
+dp[i] => i 까지 도착했을 때 max 값 = i-1 안쓴경우 + i-1 쓴 경우 
+        = stair[i] + max(dp[i-2], dp[i-3]+stair[i-1]);
