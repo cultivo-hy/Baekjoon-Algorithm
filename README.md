@@ -1,5 +1,5 @@
-# Baekjoon-Algorithm
-Baekjoon Algorithm Source Code 
+# Baekjoon-Algorithm & University algorithm
+Baekjoon Algorithm Source Code & University algorithm
 
 My id is "dwhylee". compare your source code.
 
